@@ -1,0 +1,3 @@
+config:
+  CTFD_URL: http://demo.ctfd.io
+  CTFD_API_KEY: ctfd_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
