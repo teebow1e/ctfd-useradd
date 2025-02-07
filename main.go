@@ -1,7 +1,7 @@
 package main
 
-import "github.com/teebow1e/ctfd-useradd/cmd"
+import "fmt"
 
 func main() {
-	cmd.Execute()
+	fmt.Println("hello world!")
 }
